@@ -9,9 +9,20 @@
     <managingEditor>mosser.sebastien@uqam.ca (Sébastien Mosser)</managingEditor>
     <webMaster>mosser.sebastien@uqam.ca (Sébastien Mosser)</webMaster>
     <copyright>co-located with MODELS 2019 at Munich</copyright>
+    <lastBuildDate>Tue, 07 May 2019 20:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ace-design.github.io/devops-at-models/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://ace-design.github.io/devops-at-models/2019/05/07/home/</link>
+      <pubDate>Tue, 07 May 2019 20:00:00 -0400</pubDate>
+      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
+      <guid>https://ace-design.github.io/devops-at-models/2019/05/07/home/</guid>
+      <description>Welcome to the first international workshop on DevOps co-located with MODELS!
+In the context of software development, DevOps focuses on optimizing the flow of activities involved in the creation of end user value, from idea to deployed functionality and operating systems. It includes different software development paradigms and techniques such as continuous integration or deployment, runtime monitoring, analytics, or self-adaptation of systems. Classicaly, these paradigms are implemented in a handmade way by DevOps engineers, and there is no formal support to validate the defined environment, even if they are critical in the product life-cycle.</description>
+    </item>
     
     <item>
       <title></title>
