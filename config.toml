@@ -85,26 +85,26 @@ publishDir = "docs"
     name = "Home"
     weight = 1
     identifier = ""
-    url = "/"
+    url = "/devops-at-models/"
 
     [[Languages.en.menu.main]]
     name = "Call for Participation"
     identifier = ""
     weight = 3
-    url = "/cfp"
+    url = "/devops-at-models/cfp"
 
     [[Languages.en.menu.main]]
     name = "Important Dates"
     pre = ""
     weight = 2
     identifier = "post"
-    url = "/dates"
+    url = "/devops-at-models/dates"
 
     [[Languages.en.menu.main]]
     name = "Committees"
     identifier = ""
     weight = 3
-    url = "/committees"
+    url = "/devops-at-models/committees"
 
 #    [[Languages.en.menu.footer]] # add  links to the bottom right corner.
 #    name = "Disclaimer"
