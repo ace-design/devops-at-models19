@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1st International Workshop on DevOps@MODELS</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 1st International Workshop on DevOps@MODELS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mosser.sebastien@uqam.ca (Sébastien Mosser)</managingEditor>
+    <webMaster>mosser.sebastien@uqam.ca (Sébastien Mosser)</webMaster>
+    <copyright>co-located with MODELS 2019 at Munich</copyright>
+    <lastBuildDate>Mon, 07 May 2018 21:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>http://example.org/2018/05/07/home/</link>
+      <pubDate>Mon, 07 May 2018 21:00:00 -0400</pubDate>
+      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
+      <guid>http://example.org/2018/05/07/home/</guid>
+      <description>Welcome to the first international workshop on DevOps co-located with MODELS!
+In the context of software development, DevOps focuses on optimizing the flow of activities involved in the creation of end user value, from idea to deployed functionality and operating systems. It includes different software development paradigms and techniques such as continuous integration or deployment, runtime monitoring, analytics, or self-adaptation of systems. Classicaly, these paradigms are implemented in a handmade way by DevOps engineers, and there is no formal support to validate the defined environment, even if they are critical in the product life-cycle.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
+      <guid>http://example.org/cfp/</guid>
+      <description>Call for Participation In the context of software development, DevOps focuses on optimizing the flow of activities involved in the creation of end user value, from idea to deployed functionality and operating systems. It includes different software development paradigms and techniques such as continuous integration or deployment, runtime monitoring, analytics, or self-adaptation of systems. Classicaly, these paradigms are implemented in a handmade way by DevOps engineers, and there is no formal support to validate the defined environment, even if they are critical in the product life-cycle.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/committees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
+      <guid>http://example.org/committees/</guid>
+      <description>Committees Organizing Committee Francis Bordeleau is professor at École de Technologie Supérieure (ETS) in Montréal. He is currently working on establishing of an industry research chair, which includes the development on new course, on DevOps. He has over 25 years of experience in software and model-based engineering (MBE); researching, working, consulting, and collaborating with companies worldwide. Prior to joining ETS, he was the founder of Cmind (2017-), product manager of SW Development at Ericsson (2013-2017), founder and CEO of Zeligsoft (2003-2013), director of Tooling Business for PrismTech (2010-2013), and assistant professor at Carleton University (1997-2006).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
+      <guid>http://example.org/dates/</guid>
+      <description> Important Dates  Submission Deadline: June 20, 2019 Notification: July 15, 2019 Workshop date: Between September 15-17, 2019  </description>
+    </item>
+    
+  </channel>
+</rss>
