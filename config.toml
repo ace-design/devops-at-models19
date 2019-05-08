@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ace-design.github.io/devops-at-models/"
 languageCode = "en-us"
 theme = "hugo-bootstrap-premium"
 
