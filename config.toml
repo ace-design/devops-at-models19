@@ -1,6 +1,6 @@
 baseURL = "https://ace-design.github.io/devops-at-models/"
 languageCode = "en-us"
-theme = "hugo-bootstrap-premium"
+theme = "hugo-bootstrap-premium-wkshop"
 
 title = "1st Workshop on DevOps@MODELS"
 

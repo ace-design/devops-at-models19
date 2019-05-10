@@ -16,7 +16,7 @@ We are interested in the different aspects of DevOps and modelling, more specifi
     - Modelling can easily be linked to "dev", what is its relationship to "ops"?
     - What aspects of DevOps can modeling contribute to?
     - What is the role of modelling in DevOps?
-    - What concrete solution (\emph{e.g.}, method, process, tool) can modelling brings to DevOps?
+    - What concrete solution (_e.g._, method, process, tool) can modelling brings to DevOps?
     - What kind of analysis or reasoning techniques are needed by the DevOps approach?
     - How can modelling helps to improve DevOps best practices?
 
@@ -36,4 +36,8 @@ We are interested in the different aspects of DevOps and modelling, more specifi
   3. **Position papers** (4 and 6 pages): Clearly describe a position or opinion on a relevant topic (see "Topics of Interest") in an insightful way; papers discussing challenges to the development of model-based solutions for DevOps and supporting documentation and how they could be mitigated or removed are particularly encouraged.
   4. **Industrial contributions** (extended abstract of 2 to 4 pages): Industrial people interested in contributing to the workshop can submit an extended abstract describing their current usage or challenges regarding the combined usage of modeling and DevOps. The extended abstract must clearly describe the application domain and context, and the DevOps aspect and problem addressed.   
 
-All submitted artifacts must use English. All textual documents must adhere to the Models conference formatting guidelines
+All submitted artifacts must use English. All textual documents must adhere to the Models conference formatting guidelines.
+
+To submit your paper, use the EasyChair system :
+
+  - https://easychair.org/my/conference?conf=devopsmodels19
