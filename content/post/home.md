@@ -19,6 +19,8 @@ In this context, DevOps has emerged as an evolution of the agile approaches. It 
 
 ## Discussing DevOps during MODELS?
 
+This year, [MODELS](https://modelsconf19.org/) will be held in Munich. 
+
 The goal of this workshop is to bring together researchers and practitioners from both industry and academia to discuss the role of modeling in DevOps. The intended audience consists of all people from industry or academia who are interested in the use of modeling to contribute to improve DevOps through the development of process, methods, and tools.
 
 The DevOps paradigm is a keystone of nowadays software development, and more and more companies are jumping in the DevOps train. However, it currently lacks of properties such as reasoning, validation and automation that are classically addressed by the Modelling community. We believe that several challenges faced by DevOps engineers can be tackled by modelling approaches, as well as the MDE community can benefit from including DevOps-like methodologies in its best practices.
@@ -31,4 +33,4 @@ The workshop is open to four types of contribution, from research papers to indu
 
 Feel free to read the [Call for Participation](./cfp/) for a more precise description of the questions addressed in both topics, and the submission guidelines.
 
-Contact: [devopsmodels19@easychair.org](devopsmodels19@easychair.org) 
+Contact: [devopsmodels19@easychair.org](devopsmodels19@easychair.org)
