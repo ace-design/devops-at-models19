@@ -17,4 +17,14 @@
 
 <br />
 
-TBA
+  - Xavier Blanc, University of Bordeaux
+  - Manuel Wimmer
+  - Matthias Tichy
+  - Alberto Sillitti
+  - Benjamin Benni
+  - Benoit Combemale
+  - Alfredo Capozucca
+  - Evgenii Bobrov
+  - Nicolas Ferry
+  - Martina DeSanctis
+  - Manuel Mazzara		
