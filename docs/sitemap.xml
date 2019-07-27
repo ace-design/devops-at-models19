@@ -35,6 +35,11 @@
   </url>
   
   <url>
+    <loc>https://ace-design.github.io/devops-at-models/program/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ace-design.github.io/devops-at-models/tags/</loc>
     <priority>0</priority>
   </url>

@@ -88,7 +88,12 @@ publishDir = "docs"
     url = "/devops-at-models/"
 
     [[Languages.en.menu.main]]
-    name = "Call for Participation"
+    name = "Program"
+    weight = 2
+    url = "/devops-at-models/program"
+
+    [[Languages.en.menu.main]]
+    name = "Call for Paper"
     identifier = ""
     weight = 3
     url = "/devops-at-models/cfp"
@@ -96,14 +101,14 @@ publishDir = "docs"
     [[Languages.en.menu.main]]
     name = "Important Dates"
     pre = ""
-    weight = 2
+    weight = 4
     identifier = "post"
     url = "/devops-at-models/dates"
 
     [[Languages.en.menu.main]]
     name = "Committees"
     identifier = ""
-    weight = 3
+    weight = 5
     url = "/devops-at-models/committees"
 
 #    [[Languages.en.menu.footer]] # add  links to the bottom right corner.
