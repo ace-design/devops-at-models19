@@ -15,10 +15,10 @@
     * Bart Meyers, Klaas Gadeyne, Bentley Oakes, Matthias Bernaerts, Joachim Denil and Hans Vangheluwe. _A Model-Driven Engineering Framework to Support the Functional Safety Process_.
   * 12:30-14:00 lunch
   * 14:00-15:30 Session 3 — **Teaching DevOps**
-    * Short presentations from people teaching DevOps
-    * Open discussion on DevOps teaching directions and issues
-    * Discussion on potential collaboration in Teaching DevOps initiative
+    * Short presentations from people teaching DevOps.
+    * Open discussion on DevOps teaching directions and issues.
+    * Discussion on potential collaboration in Teaching DevOps initiative.
   * 15:30-16:00 coffee
   *  16:00-17:30 Session 4 — **Role of Models and Modeling and Model-Driven Engineering in DevOps**
-    * Presentation of industrial use cases where models and MDE could contribute to improve DevOps
-    * Open discussion on the role of models and MDE in DevOps
+    * Presentation of industrial use cases where models and MDE could contribute to improve DevOps.
+    * Open discussion on the role of models and MDE in DevOps.
