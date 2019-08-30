@@ -5,7 +5,7 @@
 <br />
 
   * 09h00-10h30 Session 1 — **Presentations**
-    * Invited talk — to be announced
+    * Invited talk — Mattias Mohlin (HCL)
     * Benjamin Benni, Mireille Blay-Fornarino, Sébastien Mosser, Fréderic Precioso and Günther Jungbluth. _When DevOps meets Meta-Learning: A Portfolio to rule them all_.
     * Holger Nehls and Daniel Ratiu. _Towards: Continuous Delivery for Domain Experts - Using MDE to Integrate Non-Programmers into a Software Delivery Pipeline_.
   * 10:30-11:00 coffee
