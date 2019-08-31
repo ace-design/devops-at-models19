@@ -5,7 +5,8 @@
 <br />
 
   * 09h00-10h30 Session 1 — **Presentations**
-    * Invited talk — Mattias Mohlin (HCL)
+    * Invited talk — Mattias Mohlin (HCL). _DevOps Requirements for a Modeling Tool_.
+      * Abstract: HCL develops a modeling tool which customers in various industries use for developing event-driven, stateful real-time applications. Over the last couple of year many of these customers have embarked on a journey with the goal to develop in a more agile way, where DevOps best practises are adopted. In this session we will give some examples of the kinds of requirements on the modeling tool which the users’ adoption of DevOps have led to, and how they have been implemented.
     * Benjamin Benni, Mireille Blay-Fornarino, Sébastien Mosser, Fréderic Precioso and Günther Jungbluth. _When DevOps meets Meta-Learning: A Portfolio to rule them all_.
     * Holger Nehls and Daniel Ratiu. _Towards: Continuous Delivery for Domain Experts - Using MDE to Integrate Non-Programmers into a Software Delivery Pipeline_.
   * 10:30-11:00 coffee
