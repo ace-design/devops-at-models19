@@ -61,7 +61,7 @@ Motivations To succeed with the development, deployment, and operation of the ne
       <guid>https://ace-design.github.io/devops-at-models/program/</guid>
       <description>Workshop program 
 
- 09h00-10h30 Session 1 — Presentations  Invited talk — to be announced Benjamin Benni, Mireille Blay-Fornarino, Sébastien Mosser, Fréderic Precioso and Günther Jungbluth. When DevOps meets Meta-Learning: A Portfolio to rule them all. Holger Nehls and Daniel Ratiu. Towards: Continuous Delivery for Domain Experts - Using MDE to Integrate Non-Programmers into a Software Delivery Pipeline.  10:30-11:00 coffee 11h00-12h30 Session 2 — Presentations  Nicolas Ferry and Phu H.</description>
+ 09h00-10h30 Session 1 — Presentations  Invited talk — Mattias Mohlin (HCL). DevOps Requirements for a Modeling Tool.  Abstract: HCL develops a modeling tool which customers in various industries use for developing event-driven, stateful real-time applications. Over the last couple of year many of these customers have embarked on a journey with the goal to develop in a more agile way, where DevOps best practises are adopted.</description>
     </item>
     
   </channel>
