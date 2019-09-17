@@ -16,7 +16,7 @@
     * **Bart Meyers**, Klaas Gadeyne, Bentley Oakes, Matthias Bernaerts, Joachim Denil and Hans Vangheluwe. _A Model-Driven Engineering Framework to Support the Functional Safety Process_.
   * 12:30-14:00 lunch
   * 14:00-15:30 Session 3 — **Teaching DevOps**
-    * Short presentations (from [Jean-Michel](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-JMB.pdf), [Benjamin](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-BB.pdf), [Francis](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-FB.pdf), Benoit) from people teaching DevOps.
+    * Short presentations (from [Jean-Michel](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-JMB.pdf), [Benjamin](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-BB.pdf), [Francis](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-FB.pdf), [Benoit](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-BC.pdf)) from people teaching DevOps.
     * Open discussion on DevOps teaching directions and issues.
     * Discussion on potential collaboration in Teaching DevOps initiative.
   * 15:30-16:00 coffee
