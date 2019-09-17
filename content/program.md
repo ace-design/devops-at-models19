@@ -18,7 +18,7 @@
   * 14:00-15:30 Session 3 — **Teaching DevOps**
     * Short presentations (from [Jean-Michel](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-JMB.pdf), [Benjamin](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-BB.pdf), [Francis](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-FB.pdf), [Benoit](https://github.com/ace-design/devops-at-models/blob/master/content/slides/Teaching-BC.pdf)) from people teaching DevOps.
     * Open discussion on DevOps teaching directions and issues.
-    * Discussion on potential collaboration in Teaching DevOps initiative.
+    * Discussion on potential collaboration in [Teaching DevOps initiative](https://teachdevops.github.io).
   * 15:30-16:00 coffee
   *  16:00-17:30 Session 4 — **Role of Models and Modeling and Model-Driven Engineering in DevOps**
     * Presentation of industrial use cases where models and MDE could contribute to improve DevOps.
