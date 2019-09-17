@@ -13,7 +13,7 @@
   * 11h00-12h30 Session 2 — **Presentations**
     * **Nicolas Ferry** and Phu H. Nguyen. _Towards Model-Based Continuous Deployment of Secure IoT Systems_.
     * Camilo Mendoza, **Kelly Garces**, Rubby Casallas and Jose Bocanegra. _Detecting Architectural Issues during the Continuous Integration Pipeline_.
-    * Bart Meyers, Klaas Gadeyne, **Bentley Oakes**, Matthias Bernaerts, Joachim Denil and Hans Vangheluwe. _A Model-Driven Engineering Framework to Support the Functional Safety Process_.
+    * **Bart Meyers**, Klaas Gadeyne, Bentley Oakes, Matthias Bernaerts, Joachim Denil and Hans Vangheluwe. _A Model-Driven Engineering Framework to Support the Functional Safety Process_.
   * 12:30-14:00 lunch
   * 14:00-15:30 Session 3 — **Teaching DevOps**
     * Short presentations from people teaching DevOps.
